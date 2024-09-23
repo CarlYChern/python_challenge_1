@@ -6,12 +6,12 @@ Repository: python_challenge_1
 * Adapt menu to allow customers to place and order.
 * This includes storing the customer order and printing
 the receipt with the total prices of all items ordered.
----
+
 ## Overview
 * Print menu - code already provided.
 * Order system - new code.
 * Order receipt - new code.
----
+
 ## Small sample program output
 
 Welcome to the variety food truck.
