@@ -22,14 +22,8 @@ the receipt with the total prices of all items ordered.
             menu_category (str)
 
 ## Coding notes
-* Includes:
-  
-  while True
-  for loops
-  if else
-  match: case
+* Includes: while True, for loops, if else, and match: case
     
-
 ## Small sample program output
 
 Welcome to the variety food truck.
