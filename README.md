@@ -16,12 +16,19 @@ Repository: python_challenge_1
 Welcome to the variety food truck.
 
 From which menu would you like to order?
+
 1: Snacks
+
 2: Meals
+
 3: Drinks
+
 4: Dessert
+
 Type menu number: 2
+
 You selected Meals
+
 What Meals item would you like to order?
 Item # | Item name                | Price
 -------|--------------------------|-------
