@@ -1,6 +1,8 @@
 # Python Challenge 1        
 Repository: python_challenge_1
 
+File: menu.py
+
 ## What it does
 
 * Adapt menu to allow customers to place an order.
