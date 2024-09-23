@@ -41,10 +41,15 @@ Item # | Item name                | Price
 7      | Pizza - Vegetarian       | $9.99
 8      | Burger - Chicken         | $7.49
 9      | Burger - Beef            | $8.49
+
 Type item number to order: 6
+
 How many Pizza - Pepperoni would you like? 3
+
 Would you like to order anything else? (Y)es or (N)o: n
+
 Thank you for your order!
+
 This is what we are preparing for you.
 
 Item name                 | Price  | Quantity
