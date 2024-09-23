@@ -3,7 +3,7 @@ Repository: python_challenge_1
 
 ## What it does it do
 
-* Adapt menu to allow customers to place and order.
+* Adapt menu to allow customers to place an order.
 * This includes storing the customer order and printing
 the receipt with the total prices of all items ordered.
 
@@ -11,6 +11,20 @@ the receipt with the total prices of all items ordered.
 * Print menu - code already provided.
 * Order system - new code.
 * Order receipt - new code.
+
+## Coding overview
+* Dictionary: menu is a dict of dict.
+* Dictionary: menu_items creates a dictionary to store the menu for
+              later retrieval.
+* Dictionary: selected_item
+* List: customer_order is a  list of dict
+* Variables: long list including place_order (bool), i (int), and
+            menu_category (str)
+
+## Coding logic
+* Includes:
+    while True
+    
 
 ## Small sample program output
 
