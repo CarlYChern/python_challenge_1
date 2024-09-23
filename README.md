@@ -1,17 +1,17 @@
 # Python Challenge 1        
 Repository: python_challenge_1
 
-* What it does
+## What it does it do
   Adapt menu to allow customers to place and order.
   This includes storing the customer order and printing
   the receipt with the total prices of all items ordered.
-
-* Overview
+---
+## Overview
   Print menu - code already provided.
   Order system
   Order receipt
-
-* Small sample program output
+---
+## Small sample program output
 
 Welcome to the variety food truck.
 
