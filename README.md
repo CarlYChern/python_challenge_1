@@ -2,14 +2,15 @@
 Repository: python_challenge_1
 
 ## What it does it do
-  Adapt menu to allow customers to place and order.
-  This includes storing the customer order and printing
-  the receipt with the total prices of all items ordered.
+
+* Adapt menu to allow customers to place and order.
+* This includes storing the customer order and printing
+the receipt with the total prices of all items ordered.
 ---
 ## Overview
-  Print menu - code already provided.
-  Order system
-  Order receipt
+* Print menu - code already provided.
+* Order system - new code.
+* Order receipt - new code.
 ---
 ## Small sample program output
 
