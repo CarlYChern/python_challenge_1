@@ -1,7 +1,7 @@
 # Python Challenge 1        
 Repository: python_challenge_1
 
-## What it does it do
+## What it does
 
 * Adapt menu to allow customers to place an order.
 * This includes storing the customer order and printing
@@ -21,9 +21,13 @@ the receipt with the total prices of all items ordered.
 * Variables: long list including place_order (bool), i (int), and
             menu_category (str)
 
-## Coding logic
+## Coding notes
 * Includes:
-    while True
+  
+  while True
+  for loops
+  if else
+  match: case
     
 
 ## Small sample program output
